@@ -1,0 +1,23 @@
+name: staceykane
+favicon: null
+layout_spectrum: 0.9320740303955972
+typography_spectrum: 0.6799134097527713
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7566522746346891
+  lightness: 0.12941468111239374
+  saturation: 0.7069777955766767
+  rhythmicContrast: 0.44521001377142966
+purpose: []
